@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#ced7db</color>
+    <color name="white">#ffffff</color>
+    <color name="header_color">#323232</color>
+    <color name="off_white">#f1f5f7</color>
+    <color name="steel_grey">#788286</color>
+    <color name="mgy40">#d0d0d0</color>
+    <color name="colorTextPrimary">#ffffff</color>
+    <color name="colorTextSecondary">#000000</color>
+    <color name="cardBackground">#ddd</color>
+    <color name="recyclerViewDivider">#61ced7db</color>
+    <color name="gradient_start">#7f000000</color>
+    <color name="gradient_end">#00000000</color>
+    <color name="white_five">#f9f9f9</color>
+    <color name="white_four">#dedede</color>
+</resources>
